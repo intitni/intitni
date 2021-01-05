@@ -1,6 +1,6 @@
 A salaried iOS developer in the day, an indie developer at night.
 
-Currently working on:
+Projects:
 
 - [Abnormal Mouse for macOS](https://abnormalmouse.intii.com)
   Use swipe, zoom, rotate gestures with a normal mouse.

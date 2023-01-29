@@ -6,7 +6,7 @@ Working on Products:
 |--|--|
 |<div>[Abnormal Mouse for macOS](https://abnormalmouse.intii.com)<img src="https://github.com/intitni/AbnormalMouseWebsite/blob/master/image/twitter-card-en.png?raw=true"></div>|<div>[MarkInside for macOS and Windows](https://markinside.intii.com)<img src="https://github.com/intitni/MarkInsideWebsite/blob/master/Twitter_Card_EN.png?raw=true"></div>
 
-Open source Projects:
+Open Source Projects:
 
 - [Abnormal Mouse for macOS](https://abnormalmouse.intii.com)
 - [Copilot for Xcode](https://github.com/intitni/CopilotForXcode)

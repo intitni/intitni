@@ -8,7 +8,7 @@ Currently working on:
 
 Open-source projects:
 
-- [Abnormal Mouse for macOS](https://abnormalmouse.intii.com)
+- [Abnormal Mouse](https://github.com/intitni/AbnormalMouseApp)
 - [Copilot for Xcode](https://github.com/intitni/CopilotForXcode)
 
 Old products: 

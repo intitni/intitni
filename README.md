@@ -10,6 +10,7 @@ Open-source projects:
 
 - [Abnormal Mouse](https://github.com/intitni/AbnormalMouseApp)
 - [Copilot for Xcode](https://github.com/intitni/CopilotForXcode)
+- [XccurateFormatter](https://github.com/intitni/XccurateFormatter)
 
 Old products: 
 

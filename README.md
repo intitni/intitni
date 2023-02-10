@@ -2,9 +2,9 @@ A salaried iOS developer in the day, an indie developer at night.
 
 Currently working on:
 
-|||
+|[Abnormal Mouse for macOS](https://abnormalmouse.intii.com)|[MarkInside for macOS and Windows](https://markinside.intii.com)|
 |--|--|
-|<div>[Abnormal Mouse for macOS](https://abnormalmouse.intii.com)<a href="https://abnormalmouse.intii.com"><img src="https://github.com/intitni/AbnormalMouseWebsite/blob/master/image/twitter-card-en.png?raw=true"></a></div>|<div>[MarkInside for macOS and Windows](https://markinside.intii.com)<a href="https://markinside.intii.com"><img src="https://github.com/intitni/MarkInsideWebsite/blob/master/Twitter_Card_EN.png?raw=true"></a></div>
+|<div><a href="https://abnormalmouse.intii.com"><img src="https://github.com/intitni/AbnormalMouseWebsite/blob/master/image/twitter-card-en.png?raw=true"></a></div>|<div><a href="https://markinside.intii.com"><img src="https://github.com/intitni/MarkInsideWebsite/blob/master/Twitter_Card_EN.png?raw=true"></a></div>
 
 Open-source projects:
 

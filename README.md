@@ -1,4 +1,4 @@
-A salaried iOS developer in the day, an indie developer at night.
+~~A salaried iOS developer in the day~~ Just lost my day job, sad, an indie developer at night.
 
 Currently working on:
 

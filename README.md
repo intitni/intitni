@@ -17,4 +17,3 @@ Old products:
 - [Terrazzo for iOS](https://apps.apple.com/us/app/terrazzo-wallpaper-generator/id1480321976)
   A terrazzo style wallpaper generator.
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/intitni)

@@ -1,5 +1,3 @@
-~~A salaried iOS developer in the day~~ Just lost my day job, sad, an indie developer at night.
-
 Currently working on:
 
 |[Abnormal Mouse for macOS](https://abnormalmouse.intii.com)|[MarkInside for macOS and Windows](https://markinside.intii.com)|

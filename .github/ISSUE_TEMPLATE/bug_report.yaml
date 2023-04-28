@@ -1,0 +1,56 @@
+name: Bug Report
+description: File a bug report
+title: "[Bug]: "
+labels: ["bug"]
+assignees:
+  - intitni
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report! 
+  - type: checkboxes
+    id: before-reporting
+    attributes:
+      label: Before Reporting
+      description: Before reporting the bug, we suggestion that you first refer to the [FAQ](https://github.com/intitni/CopilotForXcode/issues/65) to check if it may address your problem. And search for existing issues to avoid duplication.
+      options:
+        - label: I have checked FAQ, and there is no solution to my problem
+          required: true
+        - label: I have searched the existing issues, and there is no existing issue for my problem
+          required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Also tell us, what did you expect to happen?
+      placeholder: Tell us what you see!
+      value: "A bug happened!"
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: How to reproduce the bug.
+      description: If possible, please provide the steps to reproduce the bug.
+      placeholder: "1. *****\n2.*****"
+      value: ""
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant log output
+      description: If it's a crash, please provide the crash report. You can find it in the Console.app.
+      render: shell
+  - type: input
+    id: mac-version
+    label: macOS version
+  - type: input
+    id: xcode-version
+    label: Xcode version
+  - type: input
+    id: copilot-for-xcode-version
+    label: Copilot for Xcode version
+  - type: input
+    id: node-version
+    label: Node version
+    

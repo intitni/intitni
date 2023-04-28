@@ -34,7 +34,7 @@ body:
       label: How to reproduce the bug.
       description: If possible, please provide the steps to reproduce the bug.
       placeholder: "1. *****\n2.*****"
-      value: ""
+      value: "It just happens!"
   - type: textarea
     id: logs
     attributes:
@@ -43,14 +43,18 @@ body:
       render: shell
   - type: input
     id: mac-version
-    label: macOS version
+    attributes:
+      label: macOS version
   - type: input
     id: xcode-version
-    label: Xcode version
+    attributes:
+      label: Xcode version
   - type: input
     id: copilot-for-xcode-version
-    label: Copilot for Xcode version
+    attributes:
+      label: Copilot for Xcode version
   - type: input
     id: node-version
-    label: Node version
+    attributes:
+      label: Node version
     

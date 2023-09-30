@@ -7,7 +7,7 @@ Currently working on:
 |[Abnormal Mouse for macOS](https://abnormalmouse.intii.com)|[MarkInside for macOS and Windows](https://markinside.intii.com)|
 |<div><a href="https://abnormalmouse.intii.com"><img src="https://github.com/intitni/AbnormalMouseWebsite/blob/master/image/twitter-card-en.png?raw=true"></a></div>|<div><a href="https://markinside.intii.com"><img src="https://github.com/intitni/MarkInsideWebsite/blob/master/Twitter_Card_EN.png?raw=true"></a></div>|
 |[Copilot for Xcode](https://github.com/intitni/CopilotForXcode)||
-|<div><a href="https://github.com/intitni/CopilotForXcode"><img src="https://repository-images.githubusercontent.com/574578825/95279494-30e8-4488-940f-030db907b96f"></a></div>||
+|<div><a href="https://github.com/intitni/CopilotForXcode"><img src="https://github.com/intitni/intitni/assets/793147/c0979dd5-b314-4e53-bd01-580c1bbc6fd2"></a></div>||
 
 Open-source projects:
 

@@ -13,7 +13,6 @@ Open-source projects:
 
 - [Copilot for Xcode](https://github.com/intitni/CopilotForXcode)
 - [XccurateFormatter](https://github.com/intitni/XccurateFormatter)
-- [Abnormal Mouse](https://github.com/intitni/AbnormalMouseApp)
 
 Old products: 
 

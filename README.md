@@ -4,10 +4,10 @@ Currently working on:
 
 |||
 |:--:|:--:|
-|[Abnormal Mouse for macOS](https://abnormalmouse.intii.com)|[MarkInside for macOS and Windows](https://markinside.intii.com)|
-|<div><a href="https://abnormalmouse.intii.com"><img src="https://github.com/intitni/AbnormalMouseWebsite/blob/master/image/twitter-card-en.png?raw=true"></a></div>|<div><a href="https://markinside.intii.com"><img src="https://github.com/intitni/MarkInsideWebsite/blob/master/Twitter_Card_EN.png?raw=true"></a></div>|
-|[Copilot for Xcode](https://github.com/intitni/CopilotForXcode)||
-|<div><a href="https://github.com/intitni/CopilotForXcode"><img src="https://github.com/intitni/intitni/assets/793147/45e3fd20-bf47-4fcb-8fa3-8ceac832223c"></a></div>||
+|[Cursor Claw for macOS](https://cursorclaw.expressionloss.com)|[MarkInside for macOS and Windows](https://markinside.intii.com)|
+|<div><a href="https://cursorclaw.expressionloss.com"><img src="https://cursorclaw.expressionloss.com/banner.png"></a></div>|<div><a href="https://markinside.intii.com"><img src="https://github.com/intitni/MarkInsideWebsite/blob/master/Twitter_Card_EN.png?raw=true"></a></div>|
+|[Copilot for Xcode](https://github.com/intitni/CopilotForXcode)|[Abnormal Mouse for macOS](https://abnormalmouse.intii.com)|
+|<div><a href="https://github.com/intitni/CopilotForXcode"><img src="https://github.com/intitni/intitni/assets/793147/45e3fd20-bf47-4fcb-8fa3-8ceac832223c"></a></div>|<div><a href="https://abnormalmouse.intii.com"><img src="https://github.com/intitni/AbnormalMouseWebsite/blob/master/image/twitter-card-en.png?raw=true"></a></div>|
 
 Open-source projects:
 
